@@ -1,3 +1,6 @@
 [submodule "EntMob6SpringBackend"]
 	path = EntMob6SpringBackend
 	url = https://github.com/boyenn/EntMob6SpringBackend/
+[submodule "EntMob6XamarinApp"]
+	path = EntMob6XamarinApp
+	url = git://github.com/MaartenBloemen/EntMob6XamarinApp
