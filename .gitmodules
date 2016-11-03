@@ -4,3 +4,6 @@
 [submodule "EntMob6XamarinApp"]
 	path = EntMob6XamarinApp
 	url = git://github.com/MaartenBloemen/EntMob6XamarinApp
+[submodule "EntMob6UWPApp"]
+	path = EntMob6UWPApp
+	url = git://github.com/JasperBeuls/EntMob6UWPApp
